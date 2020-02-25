@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vitaliy mern",
+  "mongoUri": "mongodb+srv://vitaliy:1234QW@cluster0-xvtbn.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
